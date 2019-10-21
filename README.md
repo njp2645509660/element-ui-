@@ -1,29 +1,11 @@
 # element
 
-## Project setup
-```
-npm install
-```
+基于Vue+element搭建后台，主要是一些工作总结。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1、 实现左侧导航
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2、 面包屑
 
-### Run your tests
-```
-npm run test
-```
+3、 tab
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+4、 后期会加上动态路由
